@@ -23,6 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Azure Virtual Machine
+- Remote Desktop
 - Internet Information Services (IIS)
 - PHP Manager
 - VC Redist
