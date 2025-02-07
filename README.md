@@ -64,6 +64,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 10.) Setup SQL Server configuration.
 ![image](https://github.com/user-attachments/assets/e2507ce5-8e8d-4572-a824-4b00f8a4f44d)
 
+11.) Open IIS (Internet Information Services) as an Admin
+![image](https://github.com/user-attachments/assets/549165a4-72cf-4b28-912c-a95e376b04af
+
+12.) Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+![image](https://github.com/user-attachments/assets/cd99b35a-1679-4cb1-949a-e8ecfc8db453)
+![image](https://github.com/user-attachments/assets/7b9704fa-60db-4307-a033-1ec19e2e070c)
+![image](https://github.com/user-attachments/assets/228444f9-3565-4a94-b4a1-82490304dae2)
 
 
 
