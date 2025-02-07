@@ -38,4 +38,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/user-attachments/assets/b737b17a-a96c-4452-9ae6-f1432f4e5c1c)
 
-2.) After setting up your virtual machine, you’ll need to connect to it using the public IP address it was assigned. Just open the Remote Desktop Connection app and you’re good to go!
+
+2.) After setting up your virtual machine, you’ll need to connect to it using the public IP address it was assigned. Just open the Remote Desktop Connection app and you’re good to go.
+
+3.) After connecting to your virtual machine, head over to the Control Panel. From there, open Programs and click on Turn Windows features on or off.
+
+
