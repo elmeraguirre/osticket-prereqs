@@ -79,6 +79,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 14.) Install osTicket v1.15.8
 ![image](https://github.com/user-attachments/assets/0c57238e-3a5b-48a6-86b0-d37283e35ef8)
 
+15.) Change the name of "upload folder" to "osTicket"
+![image](https://github.com/user-attachments/assets/0ccbfa71-d3bd-44ae-b186-06661c80b324)
+
+16.) Browse osTicket
+![image](https://github.com/user-attachments/assets/89f842b9-ec2d-4197-a05b-b593c2994a73)
 
 
 
