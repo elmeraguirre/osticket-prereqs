@@ -72,6 +72,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/7b9704fa-60db-4307-a033-1ec19e2e070c)
 ![image](https://github.com/user-attachments/assets/228444f9-3565-4a94-b4a1-82490304dae2)
 
+13.) Restart IIS by opening it up, then just stop and start the server.
+![image](https://github.com/user-attachments/assets/ff15a1b5-df04-4bcd-9fd0-c689ebc45776)
+![image](https://github.com/user-attachments/assets/365eda83-0ae8-40aa-a851-b0824832d5a6)
+
+14.) Install osTicket v1.15.8
+
+
+
+
+
+
+
 
 
 
