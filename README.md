@@ -44,13 +44,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 3.) After connecting to your virtual machine, head over to the Control Panel. From there, open Programs and click on Turn Windows features on or off.
 ![image](https://github.com/user-attachments/assets/ea88f70f-0e33-4fbf-88e7-0b9076e9f7dc)
 
-5.) You'll need to install or enable IIS in Windows, making sure to include CGI and Common HTTP Features
+4.) You'll need to install or enable IIS in Windows, making sure to include CGI and Common HTTP Features
 ![image](https://github.com/user-attachments/assets/9a67e5c4-c8b0-4ac4-98cb-2da2859fca4e)
+
+5.) Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
 
 6.) You will need to install PHP Manager Install
 ![image](https://github.com/user-attachments/assets/07a1cf4f-cb8e-4cd7-928f-a3f9aad6fbdc)
 
-7.) Now you will need to install the Rewrite Module 2 Setup Wizard
+7.) Now you will need to install and Extract the Rewrite Module 2 Setup Wizard
 ![image](https://github.com/user-attachments/assets/1c6c3f10-f204-45f5-8c82-1f5f7ea757f0)
 
 
