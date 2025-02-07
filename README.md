@@ -77,6 +77,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/365eda83-0ae8-40aa-a851-b0824832d5a6)
 
 14.) Install osTicket v1.15.8
+![image](https://github.com/user-attachments/assets/0c57238e-3a5b-48a6-86b0-d37283e35ef8)
+
 
 
 
