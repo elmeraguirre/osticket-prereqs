@@ -55,5 +55,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 7.) Now you will need to install and Extract the Rewrite Module 2 Setup Wizard
 ![image](https://github.com/user-attachments/assets/1c6c3f10-f204-45f5-8c82-1f5f7ea757f0)
 
+8.) Go to the osTicket-Installation-Files folder and run VC_redist.x86.exe to install it.
+![image](https://github.com/user-attachments/assets/c209a261-0710-4fe3-a1d6-94ca6fd2d898)
+
+9.) Open the osTicket-Installation-Files folder and run the MySQL 5.5.62 installer to set it up.
+![image](https://github.com/user-attachments/assets/a1568a85-64bd-4198-8e72-6341a7b18542)
+
+10.) Setup SQL Server configuration.
+![image](https://github.com/user-attachments/assets/e2507ce5-8e8d-4572-a824-4b00f8a4f44d)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
